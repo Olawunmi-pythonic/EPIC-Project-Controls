@@ -1,0 +1,30 @@
+WBS_Code,Parent_WBS,WBS_Description,Project_Phase,Discipline,Control_Account
+1.0,,Project Management,Project Management,Project Controls,PM-001
+2.0,,Engineering,Engineering,Engineering,ENG-000
+2.1,2.0,Process Engineering,Engineering,Process,ENG-001
+2.2,2.0,Mechanical Engineering,Engineering,Mechanical,ENG-002
+2.3,2.0,Piping Engineering,Engineering,Piping,ENG-003
+2.4,2.0,Civil & Structural Engineering,Engineering,Civil,ENG-004
+2.5,2.0,Electrical Engineering,Engineering,Electrical,ENG-005
+2.6,2.0,Instrumentation & Control,Engineering,Instrumentation,ENG-006
+3.0,,Procurement,Procurement,Procurement,PROC-000
+3.1,3.0,Vendor Qualification,Procurement,Procurement,PROC-001
+3.2,3.0,Request for Quotation (RFQ),Procurement,Procurement,PROC-002
+3.3,3.0,Bid Evaluation,Procurement,Procurement,PROC-003
+3.4,3.0,Purchase Orders,Procurement,Procurement,PROC-004
+3.5,3.0,Manufacturing,Procurement,Vendor,PROC-005
+3.6,3.0,Factory Acceptance Test (FAT),Procurement,Quality,PROC-006
+3.7,3.0,Shipping & Logistics,Procurement,Logistics,PROC-007
+3.8,3.0,Customs Clearance,Procurement,Logistics,PROC-008
+3.9,3.0,Site Delivery,Procurement,Logistics,PROC-009
+4.0,,Construction,Construction,Construction,CONST-000
+4.1,4.0,Civil Works,Construction,Civil,CONST-001
+4.2,4.0,Structural Steel,Construction,Structural,CONST-002
+4.3,4.0,Mechanical Installation,Construction,Mechanical,CONST-003
+4.4,4.0,Piping Installation,Construction,Piping,CONST-004
+4.5,4.0,Electrical Installation,Construction,Electrical,CONST-005
+4.6,4.0,Instrumentation Installation,Construction,Instrumentation,CONST-006
+4.7,4.0,Painting & Insulation,Construction,Construction,CONST-007
+5.0,,Pre-Commissioning,Pre-Commissioning,Commissioning,COMM-001
+6.0,,Commissioning,Commissioning,Commissioning,COMM-002
+7.0,,Project Close-Out,Close-Out,Project Controls,PM-999
